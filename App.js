@@ -8,6 +8,7 @@ export default function App() {
       <Title/>
       <Form/>
     </View>
+    
   );
 }
 
@@ -15,7 +16,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#F1F1E6',
-    paddingTop: 80,
+    paddingTop: 81,
     
   },
 });
