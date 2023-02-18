@@ -1,4 +1,4 @@
-## 1 Aplicativo 100% autoral que calcula qual o combustível mais barato.  </h1>
+## 1 Aplicativo 100% autoral que calcula qual é o combustível mais barato.  </h1>
 
 
 
